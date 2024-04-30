@@ -55,7 +55,8 @@ https://github.com/NaitikKaythwal/TAG_new/pull/36
 https://github.com/NaitikKaythwal/TAG_new/pull/37
 https://github.com/NaitikKaythwal/TAG_new/pull/40
 
-most of my works can be found here on the forked repo , we did this because we didn not want to mess up with main reop , https://github.com/hrizeq17/Hitham-hosting-
+most of my works can be found here on the forked repo , we did this because we didn not want to mess up with main reop ,https://github.com/hrizeq17/Tag-hosting-.git
+( We have told our sponsors about it ) 
 BRANCHES 
 - Hostingapp-spring24
 - app-host
